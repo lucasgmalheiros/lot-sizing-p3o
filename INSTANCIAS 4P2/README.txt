@@ -1,0 +1,16 @@
+Os arquivos com as instâncias seguem a seguinte ordem:
+
+Ligas (K)
+Pedidos (I)
+Itens (J)
+Periodos (T)
+Subperiodos (n)
+Capacidade (cap)
+Custo de atraso de pedidos (BO_it)
+Custo de estoque por item no último período (H_jT)
+Peso dos itens (p_j)
+Demanda do item j no pedido i (a_ji)
+due date (d_it)
+Itens que pertencem ao pedido i: Set S(i)
+Ordens que contém o item j: Set A(j)
+Itens a serem produzidos com a liga k: Set L(k)
