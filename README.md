@@ -1,2 +1,2 @@
-# lot-sizing-p3o
-Heurística relax and fix aplicadas a instâncias de problemas de dimensionamento de lotes resolvidas com o modelo P3O.
+# Relax-and-fix para problemas de lot sizing
+![Resultados](results.csv) da resolução de todas as ![instâncias de teste](https://github.com/lucasgmalheiros/lot-sizing-p3o/tree/main/INSTANCIAS%204P2) utililizando uma heurística ![relax-and-fix desenvolvida em Python](relax-and-fix.py) a partir do ![modelo P3O](linear_models.py) de programação linear para dimensionamento de lotes, conforme descrito por [(FURTADO; CAMARGO; TOLEDO, 2019)](https://www.rairo-ro.org/articles/ro/abs/2019/05/ro160254/ro160254.html).
